@@ -1,11 +1,6 @@
 {
   "languages": [
     {
-      "code": "ts",
-      "level": "",
-      "is_expertise": false
-    },
-    {
       "code": "js",
       "level": "",
       "is_expertise": false
@@ -33,32 +28,7 @@
       "is_expertise": true
     },
     {
-      "code": "nextjs",
-      "level": "",
-      "is_expertise": false
-    },
-    {
-      "code": "expressjs",
-      "level": "",
-      "is_expertise": false
-    },
-    {
-      "code": "ci",
-      "level": "",
-      "is_expertise": false
-    },
-    {
-      "code": "sass",
-      "level": "",
-      "is_expertise": false
-    },
-    {
-      "code": "tailwind",
-      "level": "",
-      "is_expertise": false
-    },
-    {
-      "code": "bootstrap",
+      "code": "wordPress",
       "level": "",
       "is_expertise": false
     }
@@ -68,26 +38,12 @@
       "code": "mysql",
       "level": "",
       "is_expertise": false
-    },
-    {
-      "code": "postgresql",
-      "level": "",
-      "is_expertise": false
-    },
-    {
-      "code": "oracle",
-      "level": "",
-      "is_expertise": false
     }
+  
   ],
   "tools": [
     {
       "code": "github",
-      "level": "",
-      "is_expertise": false
-    },
-    {
-      "code": "gitlab",
       "level": "",
       "is_expertise": false
     },
@@ -97,7 +53,7 @@
       "is_expertise": false
     },
     {
-      "code": "docker",
+      "code": "postMan",
       "level": "",
       "is_expertise": false
     }

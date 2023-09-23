@@ -24,12 +24,6 @@
     "code": "js"
   },
   {
-    "name": "TypeScript",
-    "logo_path": "/assets/images/technology/typescript.png",
-    "type": "language",
-    "code": "ts"
-  },
-  {
     "name": "PHP",
     "logo_path": "/assets/images/technology/php.png",
     "type": "language",
@@ -48,40 +42,10 @@
     "code": "react"
   },
   {
-    "name": "Next.js",
-    "logo_path": "/assets/images/technology/next.png",
-    "type": "framework",
-    "code": "nextjs"
-  },
-  {
-    "name": "Express.js",
-    "logo_path": "/assets/images/technology/express.png",
-    "type": "framework",
-    "code": "expressjs"
-  },
-  {
     "name": "Laravel",
     "logo_path": "/assets/images/technology/laravel.png",
     "type": "framework",
     "code": "laravel"
-  },
-  {
-    "name": "CodeIgniter",
-    "logo_path": "/assets/images/technology/codeigniter.png",
-    "type": "framework",
-    "code": "ci"
-  },
-  {
-    "name": "Sass",
-    "logo_path": "/assets/images/technology/sass.png",
-    "type": "framework",
-    "code": "sass"
-  },
-  {
-    "name": "TailwindCSS",
-    "logo_path": "/assets/images/technology/tailwind.png",
-    "type": "framework",
-    "code": "tailwind"
   },
   {
     "name": "Bootstrap",
@@ -94,18 +58,6 @@
     "logo_path": "/assets/images/technology/mysql.png",
     "type": "database",
     "code": "mysql"
-  },
-  {
-    "name": "PostgreSQL",
-    "logo_path": "/assets/images/technology/postgres.png",
-    "type": "database",
-    "code": "postgresql"
-  },
-  {
-    "name": "Oracle",
-    "logo_path": "/assets/images/technology/oracle.png",
-    "type": "database",
-    "code": "oracle"
   },
   {
     "name": "VSCode",
@@ -126,27 +78,21 @@
     "code": "github"
   },
   {
-    "name": "Gitlab",
-    "logo_path": "/assets/images/technology/gitlab.png",
-    "type": "tools",
-    "code": "gitlab"
-  },
-  {
     "name": "Figma",
     "logo_path": "/assets/images/technology/figma.png",
     "type": "tools",
     "code": "figma"
   },
   {
-    "name": "Docker",
-    "logo_path": "/assets/images/technology/docker.webp",
+    "name": "PostMan",
+    "logo_path": "/assets/images/technology/Postman.jpg",
     "type": "tools",
-    "code": "docker"
+    "code": "postMan"
   },
   {
-    "name": "Unity",
-    "logo_path": "/assets/images/technology/unity.png",
-    "type": "tools",
-    "code": "unity"
+    "name": "WordPress",
+    "logo_path": "/assets/images/technology/wordpress.png",
+    "type": "framework",
+    "code": "wordPress"
   }
 ]
