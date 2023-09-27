@@ -10,7 +10,7 @@ export async function GET() {
 
   return new NextResponse(resumeBuffer, {
     headers: {
-      "Content-Disposition": `attachment; filename=CV Andrio Sirait - ${dayjs().format("MMM YYYY")}.pdf`,
+      "Content-Disposition": `attachment; filename=CV_Frans Dedi - ${dayjs().format("MMM YYYY")}.pdf`,
     },
   });
 }
